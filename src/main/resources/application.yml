@@ -1,0 +1,6 @@
+logging:
+  file:
+    name: logs/mylongOnly.log
+
+#server:
+# port: 8081
